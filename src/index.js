@@ -1,7 +1,4 @@
-console.log('a');
-console.log('a');
-console.log('a');
-console.log('a');
-console.log('a');
-console.log('a');
-console.log('a');
+import { M1 } from './M1'
+
+console.log('index========');
+console.log(M1);
